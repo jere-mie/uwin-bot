@@ -1,3 +1,7 @@
+# Things I added myself
+secrets.json
+users.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
